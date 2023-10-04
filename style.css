@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+   color: #0000FF;
+    font-size: 3em;
+    text-transform: lowercase;
+    font-family: 'Times New Roman', Times,serif;
+    font-weight: 900;
+    font-style: oblique;
+    margin: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 30px;
+    text-align: center;
+    letter-spacing: 10px;
+    text-shadow: 0 0 20px #9b9e01f5, 10px -10px 30px #feec85, -20px -20px 40px #a16100b2, 20px -40px 50px #0540e267, -20px -60px 60px #166969, 0 -80px 70px #973716, 10px -90px 80px #451b0e;
+}
+main p{
+
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 40px;
+    line-height: 2em;
+    text-indent: 50px;
+    text-align: justify;
+}
